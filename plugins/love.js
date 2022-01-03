@@ -7,11 +7,11 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
  if (Config.WORKTYPE == 'public') {
   
-/*  Trex.addrex({ pattern: 'lovepack', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+ Trex.addrex({ pattern: 'lovepack', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '' ) return await message.sendMessage(ll);
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/0e96fae1520475124d275.jpg`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://telegra.ph/file/cd6032c65c27e0510ddad.jpg`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
@@ -55,135 +55,135 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
     var r_text = new Array ();
 
-    r_text[0] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[0] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[1] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[1] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[2] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[2] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[3] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[3] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[4] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[4] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[5] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[5] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[6] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[6] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
     var i = Math.floor(8*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer'})    
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════════╗
-║      ❰🍁🔱  T Rex BOT  🔱🍁❱  
-║         ║🍁╚FF PACK╝🍁║
+║      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱   
+║         ║🔰╚FF PACK╝🔰║
 ║
-╠═➢ 🍁.ff9       ❴your text❵
+╠═➢ 🔰.ff9       ❴your text❵
 ║send fiee fire logo
-╠═➢ 🍁.ff10      ❴your text❵
+╠═➢ 🔰.ff10      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff11      ❴your text❵
+╠═➢ 🔰.ff11      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff12      ❴your text❵
+╠═➢ 🔰.ff12      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff13      ❴your text❵
+╠═➢ 🔰.ff13      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff14      ❴your text❵
+╠═➢ 🔰.ff14      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff15      ❴your text❵
+╠═➢ 🔰.ff15      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff16      ❴your text❵
+╠═➢ 🔰.ff16      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff17      ❴your text❵
+╠═➢ 🔰.ff17      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff18       ❴your text❵
+╠═➢ 🔰.ff18       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff19       ❴your text❵
+╠═➢ 🔰.ff19       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff20       ❴your text❵
+╠═➢ 🔰.ff20       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff21       ❴your text❵
+╠═➢ 🔰.ff21       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff22       ❴your text❵
+╠═➢ 🔰.ff22       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff23       ❴your text❵
+╠═➢ 🔰.ff23       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff24       ❴your text❵
+╠═➢ 🔰.ff24       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff25       ❴your text❵
+╠═➢ 🔰.ff25       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff26       ❴your text❵
+╠═➢ 🔰.ff26       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff27       ❴your text❵
+╠═➢ 🔰.ff27       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff28       ❴your text❵
+╠═➢ 🔰.ff28       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff29       ❴your text❵
+╠═➢ 🔰.ff29       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff30       ❴your text❵
+╠═➢ 🔰.ff30       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff31       ❴your text❵
+╠═➢ 🔰.ff31       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff32       ❴your text❵
+╠═➢ 🔰.ff32       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff33       ❴your text❵
+╠═➢ 🔰.ff33       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff34       ❴your text❵
+╠═➢ 🔰.ff34       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff35       ❴your text❵
+╠═➢ 🔰.ff35       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff36       ❴your text❵
+╠═➢ 🔰.ff36       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff37       ❴your text❵
+╠═➢ 🔰.ff37       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff38       ❴your text❵
+╠═➢ 🔰.ff38       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff39       ❴your text❵
+╠═➢ 🔰.ff39       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff41       ❴your text❵
+╠═➢ 🔰.ff41       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff42       ❴your text❵
+╠═➢ 🔰.ff42       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff43       ❴your text❵
+╠═➢ 🔰.ff43       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff44       ❴your text❵
+╠═➢ 🔰.ff44       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff45       ❴your text❵
+╠═➢ 🔰.ff45       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff46       ❴your text❵
+╠═➢ 🔰.ff46       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff47       ❴your text❵
+╠═➢ 🔰.ff47       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff48       ❴your text❵
+╠═➢ 🔰.ff48       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff49       ❴your text❵
+╠═➢ 🔰.ff49       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff50       ❴your text❵
+╠═➢ 🔰.ff50       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff51       ❴your text❵
+╠═➢ 🔰.ff51       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff52       ❴your text❵
+╠═➢ 🔰.ff52       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff53       ❴your text❵
+╠═➢ 🔰.ff53       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff54       ❴your text❵
+╠═➢ 🔰.ff54       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff55       ❴your text❵
+╠═➢ 🔰.ff55       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff56       ❴your text❵
+╠═➢ 🔰.ff56       ❴your text❵
 ║send free fire logo
 ║
 ║
 ║▷Creator: HIRUSHA
 ║
-║ ❰🍁🔱  T Rex BOT  🔱🍁❱  
+║ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  
 ╚═════════════════════╝`  ,quoted: message.data})
 
     }));
 
- /* Trex.addrex({pattern: 'love you', fromMe: false }, (async (message, match) => {
+  Trex.addrex({pattern: 'love you', fromMe: false }, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -242,135 +242,135 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 ╚╩═╩╩╩═╩═╝╚══╩═╩═╝`  ,quoted: message.data})
 
     }));
- */
+ 
   Trex.addrex({pattern:  'ffpack', fromMe: true }, (async (message, match) => {
 
     var r_text = new Array ();
 
-    r_text[0] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[0] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[1] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[1] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[2] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[2] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[3] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[3] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[4] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[4] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[5] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[5] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
-    r_text[6] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[6] = "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg";
 
     var i = Math.floor(8*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer'})    
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╔═════════════════════╗
-║      ❰🍁🔱  T Rex BOT  🔱🍁❱  
-║         ║🍁╚FF PACK╝🍁║
+║      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱   
+║         ║🔰╚FF PACK╝🔰║
 ║
-╠═➢ 🍁.ff9       ❴your text❵
+╠═➢ 🔰.ff9       ❴your text❵
 ║send fiee fire logo
-╠═➢ 🍁.ff10      ❴your text❵
+╠═➢ 🔰.ff10      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff11      ❴your text❵
+╠═➢ 🔰.ff11      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff12      ❴your text❵
+╠═➢ 🔰.ff12      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff13      ❴your text❵
+╠═➢ 🔰.ff13      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff14      ❴your text❵
+╠═➢ 🔰.ff14      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff15      ❴your text❵
+╠═➢ 🔰.ff15      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff16      ❴your text❵
+╠═➢ 🔰.ff16      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff17      ❴your text❵
+╠═➢ 🔰.ff17      ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff18       ❴your text❵
+╠═➢ 🔰.ff18       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff19       ❴your text❵
+╠═➢ 🔰.ff19       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff20       ❴your text❵
+╠═➢ 🔰.ff20       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff21       ❴your text❵
+╠═➢ 🔰.ff21       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff22       ❴your text❵
+╠═➢ 🔰.ff22       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff23       ❴your text❵
+╠═➢ 🔰.ff23       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff24       ❴your text❵
+╠═➢ 🔰.ff24       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff25       ❴your text❵
+╠═➢ 🔰.ff25       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff26       ❴your text❵
+╠═➢ 🔰.ff26       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff27       ❴your text❵
+╠═➢ 🔰.ff27       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff28       ❴your text❵
+╠═➢ 🔰.ff28       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff29       ❴your text❵
+╠═➢ 🔰.ff29       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff30       ❴your text❵
+╠═➢ 🔰.ff30       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff31       ❴your text❵
+╠═➢ 🔰.ff31       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff32       ❴your text❵
+╠═➢ 🔰.ff32       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff33       ❴your text❵
+╠═➢ 🔰.ff33       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff34       ❴your text❵
+╠═➢ 🔰.ff34       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff35       ❴your text❵
+╠═➢ 🔰.ff35       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff36       ❴your text❵
+╠═➢ 🔰.ff36       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff37       ❴your text❵
+╠═➢ 🔰.ff37       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff38       ❴your text❵
+╠═➢ 🔰.ff38       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff39       ❴your text❵
+╠═➢ 🔰.ff39       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff40       ❴your text❵
+╠═➢ 🔰.ff40       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff41       ❴your text❵
+╠═➢ 🔰.ff41       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff42       ❴your text❵
+╠═➢ 🔰.ff42       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff43       ❴your text❵
+╠═➢ 🔰.ff43       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff44       ❴your text❵
+╠═➢ 🔰.ff44       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff45       ❴your text❵
+╠═➢ 🔰.ff45       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff46       ❴your text❵
+╠═➢ 🔰.ff46       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff47       ❴your text❵
+╠═➢ 🔰.ff47       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff48       ❴your text❵
+╠═➢ 🔰.ff48       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff49       ❴your text❵
+╠═➢ 🔰.ff49       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff50       ❴your text❵
+╠═➢ 🔰.ff50       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff51       ❴your text❵
+╠═➢ 🔰.ff51       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff52       ❴your text❵
+╠═➢ 🔰.ff52       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff53       ❴your text❵
+╠═➢ 🔰.ff53       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff54       ❴your text❵
+╠═➢ 🔰.ff54       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff55       ❴your text❵
+╠═➢ 🔰.ff55       ❴your text❵
 ║send free fire logo
-╠═➢ 🍁.ff56       ❴your text❵
+╠═➢ 🔰.ff56       ❴your text❵
 ║send free fire logo
 ║
 ║
 ║▷Creator: HIRUSHA
 ║
-║ ❰🍁🔱  T Rex BOT  🔱🍁❱  
+║ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  
 ╚═════════════════════╝` })
    
    }));
