@@ -22,7 +22,7 @@ const NO_RESULT = "*can't Find Anything... 😢*"
         const link = match[1]
     
         if (!link) return await message.client.sendMessage(message.jid,YT_NEED,MessageType.text)
-        await message.client.sendMessage(message.jid,DWLOAD_VID,MessageType.text);
+        await message.client.sendMessage(message.jid,DL_VID,MessageType.text);
         await axios
           .get(`https://api.zeks.me/api/ytplaymp4?apikey=hiruwahiruwa&q=${link}`)
           .then(async (response) => {
@@ -32,7 +32,7 @@ const NO_RESULT = "*can't Find Anything... 😢*"
     
             const videoBuffer = await axios.get(url_video, {responseType: 'arraybuffer'})
     
-            await message.client.sendMessage(message.jid,YTV_UP,MessageType.text);
+            await message.client.sendMessage(message.jid,UP_VID,MessageType.text);
             await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false, caption:title + '❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ \n\nSize: ' + size + 'Video Link: ' + source + 'Download Link: ' + url_video})
         })
         .catch(
