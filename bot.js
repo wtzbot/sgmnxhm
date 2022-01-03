@@ -17,7 +17,7 @@ const axios = require('axios');
 const got = require('got');
 
 // ════════════════════SQL🍁🍁
-const TrexDB = config.DATABASE.define('Alpha', {
+const TrexDB = config.DATABASE.define('Trex', {
     info: {
       type: DataTypes.STRING,
       allowNull: false
