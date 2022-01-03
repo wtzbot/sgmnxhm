@@ -14,43 +14,34 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
         var ttinullimage = await axios.get(`https://telegra.ph/file/cd6032c65c27e0510ddad.jpg`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
-
-           ❰🍁🔱  T Rex BOT  🔱🍁❱
-
+          ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
 ═════════════════════════
-
                   ♥ LOVE PACK ♥
-
                   
 ♥ Command : .love you
 ➢ Description :  Send I love you message with Image..
-
 ♥ Command : .miss you
 ➢ Description :  Send i miss you message with image..
-
 ♥ Command : .love you somuch
 ➢ Description :  Send I love you so much message with image..
-
 ♥ Command : .hate you
 ➢ Description :  Send i hate you message 😪..
-
 ♥ Command : .cry
 ➢ Description :  Send I m cry message..
-
 ♥ Command : .alone
 ➢ Description :  Send i am alone message..
-
 ♥ Command : .single
 ➢ Description : Send i am single message..
-
 ♥ Command : .need gf
 ➢ Description :  Send I need Girl friend message..
-
 ♥ Command : need bf
 ➢ Description :  Send i need Boy friend message..
+      ╔═🔰 Alpha BOT 🔰═╗
+       ╚ ENJOY WITH US ╝
+╚══════════════════════
 ` ,quoted: message.data})
 
-    }));*/
+    }));
     Trex.addrex({pattern:  'ffpack', fromMe: false }, (async (message, match) => {
 
     var r_text = new Array ();
