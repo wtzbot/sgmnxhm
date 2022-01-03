@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/DARKCRIME1/xmas /root/xmas
+RUN git clone https://github.com/CTAchiya/xmas /root/xmas
 WORKDIR /root/xmas/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
