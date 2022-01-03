@@ -24,11 +24,11 @@ if (Config.LANG == 'EN') {
 
         if (match[1] === '' ) return await message.sendMessage(ll);
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer'})
+        var ttinullimage = await axios.get(`https://telegra.ph/file/cd6032c65c27e0510ddad.jpg`, { responseType: 'arraybuffer'})
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-           ❰🍁🔱  T Rex BOT  🔱🍁❱
+           ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
 
 ═════════════════════════
 
@@ -40,7 +40,7 @@ if (Config.LANG == 'EN') {
 
 *➢ Description:* °To get the admin command list°
 
-*🍁 Command:* °.trex°
+*🍁 Command:* °.alpha°
 
 *➢ Description:*°all commands°
 
@@ -52,17 +52,10 @@ if (Config.LANG == 'EN') {
  
  ▷ Description;  Download songs new
  
- 🍁 Commans:  .afk
+🍁 Commans:  .afk
  
  ▷ Description;  Bot is online message
  
-*🍁 Command* °.rlpack°
-
-*➢ Description:* °T-REX LOGO COLLECTION 01°
-
-*🍁 Command:* °.lovepack°
-
-*➢ Description:* °Send Love message to gf/bf.°
 
 *🍁 Command;* °.grp°
 
@@ -75,10 +68,6 @@ if (Config.LANG == 'EN') {
 *🍁 Command:* °.rules°
 
 *➢ Description: * °Send Group Rules°
-
-*🍁 Command:* °.rex°
-
-*➢ Description:* °Chat with AI bot.°
 
 *🍁 Command:* °.switch°
 
@@ -176,11 +165,11 @@ Example : .covid Sri Lanka°
 
 *🍁 Command:* °.insta°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download instagram videos.°
+*➢ Description:* °🍁➢ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ Download instagram videos.°
 
 *🍁 Command:* °.fb°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download Facebook videos.°
+*➢ Description:* °🍁➢ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ Download Facebook videos.°
 
 *🍁 Command:* °.trt°
 
@@ -224,7 +213,7 @@ Example : .covid Sri Lanka°
 
 *➢ Description:* °Stalk github profiles of given username.
 
-⌨️ Example: .github TRex°
+⌨️ Example: .github Alpha°
 
 *🍁 Command:* °.tk°
 
@@ -351,15 +340,15 @@ Trex.addrex({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true },
   }));
  
 
- Trex.addrex({ pattern: 'atrex', fromMe: true, dontAddCommandList: false }, (async (message, match) => {
+ Trex.addrex({ pattern: 'aalpha', fromMe: true, dontAddCommandList: false }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(ll);
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer'})
+        var ttinullimage = await axios.get(`https://telegra.ph/file/cd6032c65c27e0510ddad.jpg`, { responseType: 'arraybuffer'})
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: `╔═══════════════════════╗
 
-           ❰🍁🔱  T Rex BOT  🔱🍁❱
+           ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
 
 ═════════════════════════
 
@@ -371,7 +360,7 @@ Trex.addrex({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true },
 
 *➢ Description:* °To get the admin command list°
 
-*🍁 Command:* °.trex°
+*🍁 Command:* °.alpha°
 
 *➢ Description:*°all commands°
 
@@ -386,10 +375,6 @@ Trex.addrex({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true },
  🍁 Commans:  .afk
  
  ▷ Description;  Bot is online message
-
-*🍁 Command* °.rlpack°
-
-*➢ Description:* °T-REX LOGO COLLECTION 01°
 
 *🍁 Command:* °.lovepack°
 
@@ -406,10 +391,6 @@ Trex.addrex({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true },
 *🍁 Command:* °.rules°
 
 *➢ Description: * °Send Group Rules°
-
-*🍁 Command:* °.rex°
-
-*➢ Description:* °Chat with AI bot.°
 
 *🍁 Command:* °.switch°
 
@@ -507,11 +488,11 @@ Example : .covid Sri Lanka°
 
 *🍁 Command:* °.insta°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download instagram videos.°
+*➢ Description:* °🍁➢ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ Download instagram videos.°
 
 *🍁 Command:* °.fb°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download Facebook videos.°
+*➢ Description:* °🍁➢ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ Download Facebook videos.°
 
 *🍁 Command:* °.trt°
 
