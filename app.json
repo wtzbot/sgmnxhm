@@ -2,11 +2,11 @@
     "name": "T-REX V 3.0.0",
     "description": "World Best Whatsapp Bot",
     "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
-    "keywords": ["Trex", "T-REX"],
+    "keywords": ["ALpha"],
     "stack": "container",
     "env": {
-      "TREX_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
+      "ALPHA_SESSION": {
+            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1 .",
             "required": true
         },
         "BUTTON_CMD": {
