@@ -10,13 +10,13 @@ if (Config.LANG == 'SI') {
  if (Config.WORKTYPE == 'public') {
  
   
-  Trex.addrex({ pattern: 'alive', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+  Trex.addrex({ pattern: 'rtyanjt', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
    if (Config.AUTOVOICE == 'true') {
    await message.client.sendMessage(message.jid,alive, MessageType.audio, {mimetype: 'audio/mp4', ptt:true,quoted: message.data})
    }
   }));
   
-  Trex.addrex({ pattern: 'atrex', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+  Trex.addrex({ pattern: 'stst', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '' ) return await message.sendMessage(ll);
 
@@ -340,13 +340,13 @@ AI chat bot අක්‍රිය කිරීමට, .switch CHAT_BOT:false ව
  
 else if (Config.WORKTYPE == 'private') {
  
- Trex.addrex({ pattern: 'alive', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
+ Trex.addrex({ pattern: 'yzmtztk', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
   if (Config.AUTOVOICE == 'true') {
    await message.client.sendMessage(message.jid,alive, MessageType.audio, {mimetype: 'audio/mp4', ptt:true,quoted: message.data})
   }
   }));
  
- Trex.addrex({ pattern: 'atrex', fromMe: true, dontAddCommandList: false }, (async (message, match) => {
+ Trex.addrex({ pattern: 'rtNtzjn', fromMe: true, dontAddCommandList: false }, (async (message, match) => {
 
         if (match[1] ==='' ) return await message.sendMessage(ll);
 
