@@ -33,7 +33,7 @@ const NO_RESULT = "*can't Find Anything... 😢*"
             const videoBuffer = await axios.get(url_video, {responseType: 'arraybuffer'})
     
             await message.client.sendMessage(message.jid,YTV_UP,MessageType.text);
-            await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false, caption:title + '\n\nSize: ' + size + 'Video Link: ' + source + 'Download Link: ' + url_video 'ʙʏ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ ᴡᴀ ʙᴏᴛ 💫'})
+            await message.client.sendMessage(message.jid,Buffer.from(videoBuffer.data), MessageType.video, {mimetype: Mimetype.mp4, ptt: false, caption:title + 'ʙʏ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ ᴡᴀ ʙᴏᴛ 💫\n\nSize: ' + size + 'Video Link: ' + source + 'Download Link: ' + url_video})
         })
         .catch(
           async (err) => await message.client.sendMessage(message.jid,NO_RESULT,MessageType.text, {quoted: message.data}),
