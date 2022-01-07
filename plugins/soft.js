@@ -9,7 +9,7 @@ if (Config.WORKTYPE == 'public') {
 
     Trex.addrex({pattern: 'softstore', fromMe: false,  deleteCommand: true }, (async (message, match) => {
             
-            var image = await axios.get ('https://telegra.ph/file/873e00ec90306f5180f19.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/aeeaf4045664a272355be.png', {responseType: 'arraybuffer'})
        
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
 ╭───────────────
