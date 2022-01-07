@@ -3,7 +3,6 @@ const {spawnSync} = require('child_process');
 const Config = require('../config');
 const chalk = require('chalk');
 const path = require("path");
-const {Message, StringSession, Image, Video} = require('./Trex/');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const got = require('got');
