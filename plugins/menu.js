@@ -89,9 +89,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭────────────────
  │ 🇱🇰🔰 Text To Img 🔰🇱🇰 
  │
- │▷ .alpack
  │▷ .attppack
- │▷ .lpack
  │▷ .ffpack
  │▷ .ttp { text }
  │▷ .dttp { text }
@@ -106,7 +104,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │  🇱🇰🔰 Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
@@ -245,10 +243,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🔰 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🔰 Command:* °.trex°
+*🔰 Command:* °.alpha°
 *➢ Description:*°all commands°
-*🔰 Command* °.rlpack°
-*➢ Description:* °Alpha LOGO COLLECTION 01°
 *🔰 Command:* °.lovepack°
 *➢ Description:* °Send Love message to gf/bf.°
 *🔰 Command;* °.grp°
@@ -257,8 +253,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °Send Group Warm msg. Admin only Command°
 *🔰 Command:* °.rules°
 *➢ Description: * °Send Group Rules°
-*🔰 Command:* °.rex°
-*➢ Description:* °Chat with AI bot.°
 *🔰 Command:* °.switch°
 *➢ Description:* °Turn on/off chat bot.
 ⌨️ Example: To turn on AI chat, *.switch CHAT_BOT:true*
@@ -640,7 +634,7 @@ Example : .covid Sri Lanka°
  │   🇱🇰🔰  Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
@@ -745,9 +739,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭────────────────
  │ 🇱🇰🔰 Text To Img 🔰🇱🇰 
  │
- │▷ .alpack
- │▷ .attppack
- │▷ .lpack
  │▷ .ffpack
  │▷ .ttp { text }
  │▷ .dttp { text }
@@ -762,7 +753,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │  🇱🇰🔰 Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
@@ -902,10 +893,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🔰 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🔰 Command:* °.trex°
+*🔰 Command:* °.alpha°
 *➢ Description:*°all commands°
-*🔰 Command* °.rlpack°
-*➢ Description:* °T-REX LOGO COLLECTION 01°
 *🔰 Command:* °.lovepack°
 *➢ Description:* °Send Love message to gf/bf.°
 *🔰 Command;* °.grp°
@@ -914,8 +903,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °Send Group Warm msg. Admin only Command°
 *🔰 Command:* °.rules°
 *➢ Description: * °Send Group Rules°
-*🔰 Command:* °.rex°
-*➢ Description:* °Chat with AI bot.°
 *🔰 Command:* °.switch°
 *➢ Description:* °Turn on/off chat bot.
 ⌨️ Example: To turn on AI chat, *.switch CHAT_BOT:true*
@@ -1298,7 +1285,7 @@ Example : .covid Sri Lanka°
  │   🇱🇰🔰 Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
@@ -1415,9 +1402,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╭────────────────
  │ 🇱🇰🔰 Text To Img 🔰🇱🇰 
  │
- │▷ .alpack
  │▷ .attppack
- │▷ .lpack
  │▷ .ffpack
  │▷ .ttp { text }
  │▷ .dttp { text }
@@ -1432,7 +1417,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │  🇱🇰🔰 Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
@@ -1571,10 +1556,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🔰 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🔰 Command:* °.trex°
+*🔰 Command:* °.alpha°
 *➢ Description:*°all commands°
-*🔰 Command* °.rlpack°
-*➢ Description:* °Alpha LOGO COLLECTION 01°
 *🔰 Command:* °.lovepack°
 *➢ Description:* °Send Love message to gf/bf.°
 *🔰 Command;* °.grp°
@@ -1967,7 +1950,7 @@ Example : .covid Sri Lanka°
  │   🇱🇰🔰🇰  Downloader 🔰🇱🇰 
  │
  │▷ .video { vid link }
- │▷ .vid2 { vid link }
+ │▷ .mp4 { vid name }
  │▷ .down { status down }
  │▷ .song { song name }
  │▷ .fsong { song name }
