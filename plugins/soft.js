@@ -14,11 +14,11 @@ if (Config.WORKTYPE == 'public') {
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
-│  adobe editing softwares type .adobe
-│  filmora softwares type       .fm
-│  operating system type        .os 
-│  avtivrus softwares type      .vs
-│  ms office softwares type     .msoffice   
+│  ◎Adobe Editing Softwares type =.adobe
+│  ◎Wondershare Softwares type =.ws
+│  ◎Operating System type =.os 
+│  ◎Avtivrus Softwares type =.vs
+│  ◎MS Office Softwares type =.msoffice   
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
@@ -37,10 +37,10 @@ if (Config.WORKTYPE == 'public') {
 │
 │    adobe editing softwares
 │    
-│  adobe photoshop    .aps
-│  adobe primere pro  .apr
-│  adobe after effect .aaf
-│  adobe ligthroom    .alm
+│  ◎adobe photoshop    .aps
+│  ◎adobe primere pro  .apr
+│  ◎adobe after effect .aaf
+│  ◎adobe ligthroom    .alm
 │   
 │
 │         🔰POWERD BY🔰
