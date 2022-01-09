@@ -19,6 +19,7 @@ if (Config.WORKTYPE == 'public') {
 │  ◎Operating System type =.os 
 │  ◎Avtivrus Softwares type =.vs
 │  ◎MS Office Softwares type =.msoffice   
+│  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
@@ -37,10 +38,10 @@ if (Config.WORKTYPE == 'public') {
 │
 │    adobe editing softwares
 │    
-│  ◎adobe photoshop =.aps
-│  ◎adobe primere pro =.apr
-│  ◎adobe after effect =.aaf
-│  ◎adobe ligthroom =.alm
+│  ◎Adobe Photoshop =.aps
+│  ◎Adobe Primere pro =.apr
+│  ◎Adobe After effect =.aaf
+│  ◎Adobe Ligthroom =.alm
 │   
 │
 │         🔰POWERD BY🔰
@@ -58,10 +59,10 @@ if (Config.WORKTYPE == 'public') {
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │ 
-│  ◎windwos 7 =.win7
-│  ◎windwos 8.1 =.win8
-│  ◎windwos 10 pro =.win10
-│  ◎windwso 11 pro =.win11
+│  ◎Windwos 7 =.win7
+│  ◎Windwos 8.1 =.win8
+│  ◎Windwos 10 pro =.win10
+│  ◎Windwso 11 pro =.win11
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
