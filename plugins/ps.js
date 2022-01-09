@@ -165,7 +165,7 @@ if (Config.WORKTYPE == 'public') {
   
   
   // MENS TYPE
-  Trex.addrex({pattern: '2022', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+  Trex.addrex({pattern: 'ps2022', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
