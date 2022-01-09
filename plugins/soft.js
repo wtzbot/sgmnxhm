@@ -37,10 +37,10 @@ if (Config.WORKTYPE == 'public') {
 │
 │    adobe editing softwares
 │    
-│  ◎adobe photoshop    .aps
-│  ◎adobe primere pro  .apr
-│  ◎adobe after effect .aaf
-│  ◎adobe ligthroom    .alm
+│  ◎adobe photoshop =.aps
+│  ◎adobe primere pro =.apr
+│  ◎adobe after effect =.aaf
+│  ◎adobe ligthroom =.alm
 │   
 │
 │         🔰POWERD BY🔰
@@ -51,18 +51,17 @@ if (Config.WORKTYPE == 'public') {
 
     }));
 
-  Trex.addrex({pattern: 'sysymkasy', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+  Trex.addrex({pattern: 'os', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
 
-            var image = await axios.get ('https://telegra.ph/file/a4b389af655b4dbb1df4f.png', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/a15c1fe58cf371d5fa759.jpg', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
-│
-│  
-│  
-│  
-│  
-│   
+│ 
+│  ◎windwos 7 =.win7
+│  ◎windwos 8.1 =.win8
+│  ◎windwos 10 pro =.win10
+│  ◎windwso 11 pro =.win11
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
