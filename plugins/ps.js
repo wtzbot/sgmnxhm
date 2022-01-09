@@ -11,8 +11,7 @@ if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   Adobe Photoshop CC full + Patch
@@ -36,8 +35,7 @@ if (Config.WORKTYPE == 'public') {
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
             
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2017 (32 bit & 64 bit) full + Patch
@@ -64,8 +62,7 @@ if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2018 (64 bit) Full + Patch
@@ -90,8 +87,7 @@ if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2019 (64 bit) (Preactivated)
@@ -116,8 +112,7 @@ if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2020(64 bit) preactivated 
@@ -141,8 +136,7 @@ if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2021  (64 bit) offline Setup + Solution
@@ -169,8 +163,7 @@ if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `
-╭───────────────
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
 │   🔰Adobe Photoshop CC 2022  (64 bit)  Preactivated
