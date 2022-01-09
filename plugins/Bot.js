@@ -41,6 +41,7 @@ if (Config.WORKTYPE == 'private') {
 
 ╹ 🔰 *Kasun Ravihara* ╹
 ╹ 🔰 *Hirusha Rukshan*╹
+╹ 🔰 *Thinura Gayantha (King Dark Alpha)*╹
 
          http://wa.me/+94720603183  
 
@@ -80,6 +81,7 @@ else if (Config.WORKTYPE == 'public') {
 
 ╹ 🔰 *Kasun Ravihara* ╹
 ╹ 🔰 *Hirusha Rukshan*╹
+╹ 🔰 *Thinura Gayantha (King Dark Alpha)*╹
 
          http://wa.me/+94720603183  
 
@@ -117,6 +119,7 @@ else if (Config.WORKTYPE == 'public') {
 
 ╹ 🔰 *Kasun Ravihara* ╹
 ╹ 🔰 *Hirusha Rukshan*╹
+╹ 🔰 *Thinura Gayantha (King Dark Alpha)*╹
 
          http://wa.me/+94720603183  
 
