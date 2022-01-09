@@ -27,7 +27,7 @@ if (Config.WORKTYPE == 'public') {
     }));
 
 
-    Trex.addrex({pattern: 'sdgsjnerm', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+    Trex.addrex({pattern: 'adobe', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
 
             var image = await axios.get ('https://telegra.ph/file/a4b389af655b4dbb1df4f.png', {responseType: 'arraybuffer'})
@@ -35,10 +35,12 @@ if (Config.WORKTYPE == 'public') {
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
-│  
-│  
-│  
-│  
+│    adobe editing softwares
+│    
+│  adobe photoshop    .aps
+│  adobe primere pro  .apr
+│  adobe after effect .aaf
+│  adobe ligthroom    .alm
 │   
 │
 │         🔰POWERD BY🔰
