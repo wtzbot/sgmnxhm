@@ -1333,7 +1333,7 @@ else if (Config.WORKTYPE == 'private') {
         
 if (Config.BTN == 'btn') {
         
-Trex.addrex({pattern: 'trex', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
+Trex.addrex({pattern: 'alpha', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
 // T-REX LIST
 
 var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
