@@ -164,7 +164,7 @@ if (Config.WORKTYPE == 'public') {
     }));
   
   
-  // MENS TYPE
+
   Trex.addrex({pattern: 'ps2022', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
