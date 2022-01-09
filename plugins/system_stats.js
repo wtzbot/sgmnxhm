@@ -89,7 +89,7 @@ const btn = {
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Trex.addrex({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
+    Trex.addrex({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
             
