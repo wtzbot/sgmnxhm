@@ -7,7 +7,7 @@ const axios = require('axios');
 
 if (Config.WORKTYPE == 'public') {
 
-    Trex.addrex({pattern: 'ps', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+    Trex.addrex({pattern: 'aps', fromMe: false,  deleteCommand: true }, (async (message, match) => {
             
             var image = await axios.get ('https://telegra.ph/file/356c867018dcc23ad22f9.png', {responseType: 'arraybuffer'})
        
