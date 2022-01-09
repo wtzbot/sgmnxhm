@@ -523,16 +523,12 @@ Example : .covid Sri Lanka°
 ╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
-│   SELECT YOUR SOFTWARE
-│
-│
-│
-│      coming soon 
-│
-│
-│
-│    
-│        
+│  ◎Adobe Editing Softwares type =.adobe
+│  ◎Wondershare Softwares type =.ws
+│  ◎Operating System type =.os 
+│  ◎Antivirus Softwares type =.vs
+│  ◎Office Softwares type =.office   
+│  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
@@ -1173,16 +1169,12 @@ Example : .covid Sri Lanka°
 ╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
-│   SELECT YOUR SOFTWARE
-│
-│
-│
-│      coming soon 
-│
-│
-│
-│    
-│        
+│  ◎Adobe Editing Softwares type =.adobe
+│  ◎Wondershare Softwares type =.ws
+│  ◎Operating System type =.os 
+│  ◎Antivirus Softwares type =.vs
+│  ◎Office Softwares type =.office   
+│  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
@@ -1838,16 +1830,12 @@ Example : .covid Sri Lanka°
 ╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │
-│   SELECT YOUR SOFTWARE
-│
-│
-│
-│      coming soon 
-│
-│
-│
-│    
-│        
+│  ◎Adobe Editing Softwares type =.adobe
+│  ◎Wondershare Softwares type =.ws
+│  ◎Operating System type =.os 
+│  ◎Antivirus Softwares type =.vs
+│  ◎Office Softwares type =.office   
+│  ◎Android Emulator Form Pc =.em
 │
 │         🔰POWERD BY🔰
 │      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
