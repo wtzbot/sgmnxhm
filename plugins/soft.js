@@ -73,7 +73,7 @@ if (Config.WORKTYPE == 'public') {
   Trex.addrex({pattern: 'em', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
 
-            var image = await axios.get ('https://telegra.ph/file/a02ee0ef6954375e88b0c.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/4d6dc262fedc23e93cc69.jpg', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭───────────────
 │  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
 │       Android Emulator From Pc
