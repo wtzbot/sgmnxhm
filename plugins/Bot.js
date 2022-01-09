@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 ╹ 🔰 *Kasun Ravihara* ╹
 ╹ 🔰 *Hirusha Rukshan*╹
 
-         wa.me/+94720603183  
+         http://wa.me/+94720603183  
 
    🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
 
@@ -75,7 +75,7 @@ else if (Config.WORKTYPE == 'public') {
 ╹ 🔰 *Kasun Ravihara* ╹
 ╹ 🔰 *Hirusha Rukshan*╹
 
-        wa.me/+94720603183 
+        http://wa.me/+94720603183 
         
    🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰` })
 
@@ -110,7 +110,7 @@ else if (Config.WORKTYPE == 'public') {
 ╹ 🔰 *Hirusha Rukshan*╹
 
 
-       wa.me/+94720603183
+       http://wa.me/+94720603183
 
    🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰 `  ,quoted: message.data})
 
