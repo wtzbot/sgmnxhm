@@ -525,14 +525,24 @@ Example : .covid Sri Lanka°
 ║ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
-        {title: ' 🧨 Logo Pack 🪔✨ ', description: `▷▷▷▷▷▷\n\n\n
-╔══════════════════════
-║❌ 🔰*Alpha LOGO PACK*🔰 ❌
-╠══════════════════════
-║          Comming soon
-║      ╔═❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱═╗
-║        ╚ ENJOY WITH US ╝
-╚══════════════════════
+        {title: ' 🧨 SOFTWARE STORE 🪔✨ ', description: `▷▷▷▷▷▷\n\n\n
+╭───────────────
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│
+│   SELECT YOUR SOFTWARE
+│
+│
+│
+│      coming soon 
+│
+│
+│
+│    
+│        
+│
+│         🔰POWERD BY🔰
+│      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
+╰──────────────
 `, rowId:"rowid6"},
         {title: '🧨 Attp Pack 🪔✨', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
@@ -1172,14 +1182,24 @@ Example : .covid Sri Lanka°
 ║ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱   
 ╚═════════════════════╝
 `, rowId:"rowid5"},
-        {title: '   🧨 Logo Pack 🪔✨ ', description:`▷▷▷▷▷▷\n\n\n
-╔══════════════════════
-║❌ 🔰*ALPHA LOGO PACK*🔰 ❌
-╠══════════════════════
-║          Comming soon
-║      ╔═🔰 Alpha BOT 🔰═╗
-║        ╚ ENJOY WITH US ╝
-╚══════════════════════
+        {title: '   🧨 SOFTWARE STORE 🪔✨ ', description:`▷▷▷▷▷▷\n\n\n
+╭───────────────
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│
+│   SELECT YOUR SOFTWARE
+│
+│
+│
+│      coming soon 
+│
+│
+│
+│    
+│        
+│
+│         🔰POWERD BY🔰
+│      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
+╰──────────────
 `, rowId:"rowid6"},
         {title: '🧨 Attp Pack 🪔✨', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
@@ -1831,14 +1851,24 @@ Example : .covid Sri Lanka°
 ║ ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  
 ╚═════════════════════╝
 `, rowId:"rowid5"},
-        {title: '  🧨 Logo Pack 🪔✨  ', description:`▷▷▷▷▷▷\n\n\n
-╔══════════════════════
-║❌ 🔰*ALPHA LOGO PACK*🔰 ❌
-╠══════════════════════
-║          Comming soon
-║      ╔═🔰 Alpha BOT 🔰═╗
-║        ╚ ENJOY WITH US ╝
-╚══════════════════════
+        {title: '  🧨 SOFTWARE STORE 🪔✨  ', description:`▷▷▷▷▷▷\n\n\n
+╭───────────────
+│  🔰 SOFTWARE STORE BY ACHI BRO LK 🔰
+│
+│   SELECT YOUR SOFTWARE
+│
+│
+│
+│      coming soon 
+│
+│
+│
+│    
+│        
+│
+│         🔰POWERD BY🔰
+│      ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱
+╰──────────────
 `, rowId:"rowid6"},
         {title: ' 🧨 Attp Pack 🪔✨ ', description: `▷▷▷▷▷▷\n\n\n
 ╔═════════════════════╗
