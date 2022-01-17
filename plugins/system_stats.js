@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "◤◥ Hi ${conn.user.name} ◤◥n\n\n\● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● n\n\n\◐. Developer: ACHIYAn\◐. Github - https://bit.ly/3FEWS4hn\◐. Youtube - https://bit.ly/3IeLP3Qn\◐. All Cammands - .alphan\◐. Owner - https://bit.ly/3A5DTyQn\◐. Our Web - https://bit.ly/3Kig1Nan\n\n\● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●n\n\n\◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "\n◤◥ Hi Dear ◤◥ \n\n\n ● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● \n\n\n ◐. Developer: ACHIYA \n ◐. Github - https://bit.ly/3FEWS4h \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. All Cammands - .alpha \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n\n ● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●\n\n\n◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "◤◥ Hi ${conn.user.name} ◤◥n\n\n\● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● n\n\n\◐. Developer: ACHIYAn\◐. Github - https://bit.ly/3FEWS4hn\◐. Youtube - https://bit.ly/3IeLP3Qn\◐. All Cammands - .alphan\◐. Owner - https://bit.ly/3A5DTyQn\◐. Our Web - https://bit.ly/3Kig1Nan\n\n\● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●n\n\n\◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "\n◤◥ Hi Dear ◤◥ \n\n\n ● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● \n\n\n ◐. Developer: ACHIYA \n ◐. Github - https://bit.ly/3FEWS4h \n ◐. Youtube - https://bit.ly/3IeLP3Q \n ◐. All Cammands - .alpha \n ◐. Owner - https://bit.ly/3A5DTyQ \n ◐. Our Web - https://bit.ly/3Kig1Na \n\n\n ● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●\n\n\n◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
