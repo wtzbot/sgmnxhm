@@ -18,13 +18,13 @@ if (Config.WORKTYPE == 'private') {
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🪔✨ HAPPY NEW YEAR 🧨✨'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: '🪔 SAME TO YOU 🧨'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'I AM FINE😍'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'I AM NOT FINE😒✋💔'}, type: 1},
  ]
 
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "🪔 I WISH YOU 🧨✨ HAPPY NEW YEAR 🪔✨",
+    contentText: "HOW ARE YOU😊❤️",
     footerText: '❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ BOT ▷',
     buttons: buttons,
     headerType: 1
@@ -33,7 +33,7 @@ const btn = {
             
             var image = await axios.get ('https://telegra.ph/file/cd6032c65c27e0510ddad.jpg', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There! I'm Online now. 🔰```\n\n🔰 My name : ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱\n\n🔰 Developer: ACHIYA\n\n🔰Thank You For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "◤◥ Hi User {user} ◤◥ n\n\n\ ● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● n\n\n\ ◐. Developer: ACHIYA n\ ◐. Github - https://bit.ly/3FEWS4h n\ ◐. Youtube - https://bit.ly/3IeLP3Q n\ ◐. All Cammands - .alpha n\ ◐. Owner - https://bit.ly/3A5DTyQ n\ ◐. Our Web - https://bit.ly/3Kig1Na n\n\n\● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●n\n\n\◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤ ◢"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -41,12 +41,12 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🪔✨ HAPPY NEW YEAR 🧨✨'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: '🪔 SAME TO YOU 🧨'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'I AM FINE😍'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'I AM NOT FINE😒✋💔'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "🪔 I WISH YOU 🧨✨ HAPPY NEW YEAR 🪔✨",
+    contentText: "HOW ARE YOU😊❤️",
     footerText: 'BY ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ BOT ▷',
     buttons: buttons,
     headerType: 1
@@ -94,13 +94,13 @@ else if (Config.WORKTYPE == 'public') {
         if (Config.ALIVEMSG == 'default') {
             
             const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🪔✨ HAPPY NEW YEAR 🧨✨'}, type: 1},//jakakkak
-  {buttonId: 'MNU', buttonText: {displayText: '🪔 SAME TO  YOU 🧨'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'I AM FINE😍'}, type: 1},//jakakkak
+  {buttonId: 'MNU', buttonText: {displayText: 'I AM NOT FINE😒✋💔'}, type: 1},
  ]
 
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "🪔 I WISH YOU 🧨✨ HAPPY NEW YEAR 🪔✨",
+    contentText: "HOW ARE YOU😊❤️",
     footerText: 'BY ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ BOT ▷',
     buttons: buttons,
     headerType: 1
@@ -115,7 +115,7 @@ const btn = {
         await new Promise(r => setTimeout(r, 1000));
 
  
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```Hey There! I'm Online now. 🔰```\n\n🔰 My name : ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱\n\n🔰 Developer: ACHIYA\n\n🔰Thank You For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "◤◥ Hi User {user} ◤◥ n\n\n\ ● Hay there I'm  ༆ Alpha Bot ᴮʸ ᴬᶜʰⁱ ᴮʳᵒ༆. ● n\n\n\ ◐. Developer: ACHIYA n\ ◐. Github - https://bit.ly/3FEWS4h n\ ◐. Youtube - https://bit.ly/3IeLP3Q n\ ◐. All Cammands - .alpha n\ ◐. Owner - https://bit.ly/3A5DTyQ n\ ◐. Our Web - https://bit.ly/3Kig1Na n\n\n\● Thanks For Using ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱  Bot ●n\n\n\◤◢◣◥◤◢◣◥◣◥◤◢◣◥◣◥◤ ◢"})
             
         await message.client.sendMessage (message.jid, btn, MessageType.buttonsMessage)
 
@@ -123,12 +123,12 @@ const btn = {
     }
     else {
         const buttons = [
-  {buttonId: 'MENU', buttonText: {displayText: '🪔✨ HAPPY NEW YEAR 🧨✨'}, type: 1},//jakakkak
-  {buttonId: 'MEN', buttonText: {displayText: '🪔 SAME TO YOU 🧨'}, type: 1},
+  {buttonId: 'MENU', buttonText: {displayText: 'I AM FINE😍'}, type: 1},//jakakkak
+  {buttonId: 'MEN', buttonText: {displayText: 'I AM NOT FINE😒✋💔'}, type: 1},
   ]
 const btn = {
    // imageMessage: 'https://telegra.ph/file/cd35928cef2be17d339c1.jpg',
-    contentText: "🪔 I WISH YOU 🧨✨ HAPPY NEW YEAR 🪔✨",
+    contentText: "HOW ARE YOU😊❤️",
     footerText: 'BY ❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ BOT ▷',
     buttons: buttons,
     headerType: 1
