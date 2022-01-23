@@ -83,7 +83,7 @@ else if (cn.WORKTYPE == 'public') {
   })
     
      Trex.addrex(
-  { pattern: "find", fromMe: true, desc: Lang.FIND_DESC },
+  { pattern: "find ?(.*)", fromMe: true, desc: Lang.FIND_DESC },
   async (message, match) => {
     if (
       !message.reply_message ||
